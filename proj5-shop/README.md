@@ -33,6 +33,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 # git add .
 # git status
 # git commit -m "这里是注释。。。"
-# git remote add origin https://github.com/chenyufeng1991/NewsClient.git
+# git remote add origin https://github.com/nizizaizhe/vue-vuex-webpack-axios.git
 # git pull origin master
 # git push -u origin master

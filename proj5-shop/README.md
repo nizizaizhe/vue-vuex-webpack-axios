@@ -28,3 +28,11 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#git提交本地文件到远程仓储的步骤
+# git init
+# git add .
+# git status
+# git commit -m "这里是注释。。。"
+# git remote add origin https://github.com/chenyufeng1991/NewsClient.git
+# git pull origin master
+# git push -u origin master
